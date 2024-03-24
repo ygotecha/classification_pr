@@ -1,7 +1,7 @@
 # Projects Overview
 
 #### *Deep Learning Projects*
-Flower Species Classification
+##### *Flower Species Classification*
 Domain: Botanical Research
 Context: This project involves creating a classifier to determine a flower's species from a photo.
 Dataset: The dataset comprises images of five species of flowers: daisy, tulip, rose, sunflower, and dandelion.
